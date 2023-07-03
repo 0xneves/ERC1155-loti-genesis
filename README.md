@@ -1,4 +1,4 @@
-# Diogo's Project
+# Loti Genesis - ERC115 Project
 
 ## Setup
 
